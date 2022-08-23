@@ -10,3 +10,4 @@ This is a data engineer project where i create some tables on oracle and feed th
 - Create faker-generator
 - Create NodeJs API
 - Connect : faker-generator, API and Oracle
+- Create a simple ML Model for another people use
